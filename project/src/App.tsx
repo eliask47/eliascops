@@ -74,7 +74,7 @@ function App() {
           </h1>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-purple-600 mx-auto mb-8"></div>
           <p className="text-xl sm:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Welcome to our professional platform. Customize this text to describe your mission, vision, and what makes you unique.
+            Lead Generation That Drives More Cars To Your Front Steps.
           </p>
         </div>
       </section>
@@ -84,10 +84,10 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose ELIASCOPS
+              Why Choose Us?
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Customize this section to highlight your key features, services, or benefits. Replace this text with your own content.
+              We turn cold leads into booked clients. Proven lead generation and ad strategies built specifically for detailing, tint, wrap, and PPF shops.
             </p>
           </div>
           
@@ -98,7 +98,7 @@ function App() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Excellence</h3>
               <p className="text-gray-600 leading-relaxed">
-                Customize this text to describe your first key feature or service. Explain how you deliver excellence to your clients.
+                We don’t just run ads — we build full funnels designed to convert. Every click is tracked, every dollar optimized.
               </p>
             </div>
             
@@ -106,9 +106,9 @@ function App() {
               <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-6">
                 <Shield className="w-6 h-6 text-purple-600" />
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">Security</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">Experience</h3>
               <p className="text-gray-600 leading-relaxed">
-                Replace this placeholder text with information about your security measures, reliability, or trust factors.
+                Built by marketers who know the auto industry inside and out. We help shops fill calendars and scale profitably.
               </p>
             </div>
             
@@ -118,7 +118,7 @@ function App() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Innovation</h3>
               <p className="text-gray-600 leading-relaxed">
-                Customize this section to highlight your innovative approach, cutting-edge solutions, or forward-thinking methodology.
+                Stay ahead of your competition with the latest in automation, targeting, and real-time data.
               </p>
             </div>
           </div>
