@@ -131,13 +131,13 @@ function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-6">
-                About ELIASCOPS
+                About Us
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                This is your opportunity to tell your story. Replace this text with information about your company, your mission, and what drives you to excellence.
+                Built by marketers with years of experience scaling campaigns to multiple 6-figures in revenues, ELIASCOPS strives to streamline the lead generation process for you.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Customize this paragraph to include your background, experience, values, and what sets you apart from the competition.
+                From innovating your marketing strategies to booking appointments, we handle the full marketing and lead generation process for you, A-Z.
               </p>
               <button className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors duration-200">
                 Learn More
@@ -149,9 +149,9 @@ function App() {
                 <div className="w-24 h-24 bg-gradient-to-br from-blue-600 to-purple-600 rounded-full mx-auto mb-6 flex items-center justify-center">
                   <span className="text-white text-2xl font-bold">EC</span>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">Your Vision Here</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-4">Elias Kim</h3>
                 <p className="text-gray-600">
-                  Customize this card with your company logo, vision statement, or key statistics that represent your success.
+                  Founder & CEO of ELIASCOPS.
                 </p>
               </div>
             </div>
@@ -167,15 +167,15 @@ function App() {
               Our Services
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Replace this section with your specific services or offerings. Customize each service card below.
+              Learn more about what package is right for your business.
             </p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">Service One</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">Mobile Detailing</h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Customize this text to describe your first service offering. Explain the benefits and value you provide to clients.
+                Full stack lead generation services for mobile detailers who specialize in ceramic coatings.
               </p>
               <a href="#" className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center">
                 Learn More
@@ -184,9 +184,9 @@ function App() {
             </div>
             
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">Service Two</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">Auto Cosmetic Spas</h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Replace this placeholder with details about your second service. Highlight what makes this offering unique and valuable.
+                Full stack lead generation services for automobile cosmetic spas who specialize in wraps, PPF, and tinting.
               </p>
               <a href="#" className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center">
                 Learn More
@@ -204,13 +204,13 @@ function App() {
             Get In Touch
           </h2>
           <p className="text-lg text-gray-600 mb-12 max-w-2xl mx-auto">
-            Customize this contact section with your preferred contact methods, office hours, or call-to-action message.
+            We'd love to work with you, regardless of how big or small your business is.
           </p>
           
           <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-8 text-white">
             <h3 className="text-2xl font-semibold mb-4">Ready to Get Started?</h3>
             <p className="text-blue-100 mb-8 max-w-xl mx-auto">
-              Replace this text with your contact information, business hours, or a compelling reason for potential clients to reach out.
+              Contact start@eliascops.com to book your free consultation call today!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="px-8 py-3 bg-white text-blue-600 font-medium rounded-lg hover:bg-gray-100 transition-colors duration-200">
@@ -230,7 +230,7 @@ function App() {
           <div className="text-center">
             <h3 className="text-2xl font-bold mb-4">ELIASCOPS</h3>
             <p className="text-gray-400 mb-8 max-w-md mx-auto">
-              Customize this footer with your contact information, social links, or additional company details.
+              EST 2025.
             </p>
             <div className="border-t border-gray-800 pt-8">
               <p className="text-gray-500 text-sm">
